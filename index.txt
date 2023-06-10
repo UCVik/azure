@@ -1,2 +1,1 @@
-This is the first version
-Let's see if there is naything
+This is the second version of the file"
